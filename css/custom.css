@@ -1,0 +1,24 @@
+header .logo {
+    height: 75rem;
+}
+ .input-group .btn {
+    display: block;
+    width: 50%;
+    padding: 15px 15px;
+    text-align: center;
+    border: none;
+    background: red;
+    outline: none;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    color: #FFF;
+    cursor: pointer;
+    transition: .3s;
+}
+.input-group .btn:hover {
+    transform: translateY(-5px);
+    background: darkorange;
+}  
+
+
+
